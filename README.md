@@ -1,0 +1,1 @@
+# Etkinlik-Yoneticisi-v1.0.0
