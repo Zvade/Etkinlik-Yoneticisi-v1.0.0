@@ -1,8 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=250&section=header&text=Etkinlik%20Yoneticisi%20v1.0.0&fontSize=50&fontAlignY=40&fontColor=A97CF8&desc=High-Performance%20Event%20Management%20System&descAlignY=60&descAlign=50&bgImg=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1sYnVnZ3ViOWdncjY5Nml5MnZ4Y3llc2Z0bnFoOHY3ZjB5dXcybiZlcD12MV9pbnRlcm5hbV9naWZfYnlfaWQmY3Q9Zw/R3At3CFeYe02MNNpgj/giphy.gif" width="100%"/>
-
-<br/>
+  <svg width="800" height="250" viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+          .container {
+            background: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1sYnVnZ3ViOWdncjY5Nml5MnZ4Y3llc2Z0bnFoOHY3ZjB5dXcybiZlcD12MV9pbnRlcm5hbV9naWZfYnlfaWQmY3Q9Zw/R3At3CFeYe02MNNpgj/giphy.gif');
+            background-size: cover;
+            background-position: center;
+            width: 800px;
+            height: 250px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            border-radius: 10px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+          }
+          .title {
+            color: #A97CF8;
+            font-size: 45px;
+            font-weight: bold;
+            margin: 0;
+            text-shadow: 2px 2px 10px rgba(0,0,0,0.8);
+          }
+          .desc {
+            color: #ffffff;
+            font-size: 18px;
+            margin-top: 5px;
+            opacity: 0.9;
+            text-shadow: 1px 1px 5px rgba(0,0,0,0.8);
+          }
+        </style>
+        <div class="container">
+          <h1 class="title">Etkinlik Yoneticisi v1.0.0</h1>
+          <p class="desc">High-Performance Event Management System</p>
+        </div>
+      </div>
+    </foreignObject>
+  </svg>
 
 </div>
 
