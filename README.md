@@ -51,7 +51,7 @@ Bu plugin, sadece bir takvim değil; sunucu içi topluluk yönetimini otomatize 
 
 ### 📊 Performans ve Uyumluluk
 <p align="left">
-<img src="https://img.shields.io/badge/Version-1.21+-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Version-1.21.4-blueviolet?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Database-SQLite%20/%20MariaDB-blue?style=for-the-badge" />
 </p>
