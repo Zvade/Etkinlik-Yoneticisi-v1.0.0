@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&bgImg=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemt2ZW8yNTQxN2wzbGt4MzdnOXc5cHlzczR4cmF3bHExaXZkNjdlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PnWCWKuUDtw17Nna6F/giphy.gif" width="100%"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemt2ZW8yNTQxN2wzbGt4MzdnOXc5cHlzczR4cmF3bHExaXZkNjdlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PnWCWKuUDtw17Nna6F/giphy.gif" width="100%" style="border-radius: 10px;" />
 
 </div>
 
