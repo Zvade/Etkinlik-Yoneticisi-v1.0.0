@@ -54,7 +54,7 @@ Bu plugin, sadece bir takvim değil; sunucu içi topluluk yönetimini otomatize 
 ---
 
 ### 🌐 Geliştirici Notu
-> "Bu sistem, büyük ölçekli Minecraft sunucularında stabilite ve düzeni sağlamak adına Ardıl tarafından titizlikle kodlanmıştır."
+> "Bu sistem, büyük ölçekli Minecraft sunucularında Avantaj ve düzeni sağlamak adına Ardıl tarafından titizlikle kodlanmıştır."
 
 <br/>
 
