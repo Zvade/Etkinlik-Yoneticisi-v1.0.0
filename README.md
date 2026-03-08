@@ -40,6 +40,11 @@ Bu plugin, sadece bir takvim değil; sunucu içi topluluk yönetimini otomatize 
     <td>Veritabanından etkinlik siler</td>
     <td><code>etkinlik.admin</code></td>
   </tr>
+    <tr>
+    <td><code>/etkinlik help</code></td>
+    <td>etkinlik sistemi hakkinda bilgi verir</td>
+    <td><code>etkinlik.admin</code></td>
+  </tr>
 </table>
 
 <br/>
