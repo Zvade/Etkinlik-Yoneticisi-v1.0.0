@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=250&section=header&text=Etkinlik%20Yoneticisi%20v1.0.0&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=A97CF8&desc=High-Performance%20Event%20Management%20System&descAlignY=60&descAlign=50&bgImg=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1sYnVnZ3ViOWdncjY5Nml5MnZ4Y3llc2Z0bnFoOHY3ZjB5dXcybiZlcD12MV9pbnRlcm5hbV9naWZfYnlfaWQmY3Q9Zw/R3At3CFeYe02MNNpgj/giphy.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=Etkinlik%20Yoneticisi%20v1.0.0&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=A97CF8&desc=High-Performance%20Event%20Management%20System&descAlignY=60&descAlign=50&bgImg=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1sYnVnZ3ViOWdncjY5Nml5MnZ4Y3llc2Z0bnFoOHY3ZjB5dXcybiZlcD12MV9pbnRlcm5hbV9naWZfYnlfaWQmY3Q9Zw/R3At3CFeYe02MNNpgj/giphy.gif" width="100%"/>
 
 <br/>
 
