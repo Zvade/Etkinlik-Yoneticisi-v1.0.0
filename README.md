@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=Etkinlik%20Yoneticisi%20v1.0.0&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=A97CF8&desc=High-Performance%20Event%20Management%20System&descAlignY=60&descAlign=50&bgImg=http://Etkinlikgif.zvade" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&bgImg=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemt2ZW8yNTQxN2wzbGt4MzdnOXc5cHlzczR4cmF3bHExaXZkNjdlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PnWCWKuUDtw17Nna6F/giphy.gif" width="100%"/>
 
-<br/>
 </div>
+
 ### 🛰️ Sistem Mimarisi ve Vizyon
 Bu plugin, sadece bir takvim değil; sunucu içi topluluk yönetimini otomatize eden bir mühendislik çözümüdür. **Java tabanlı** altyapısı ve **kalıcı veritabanı** entegrasyonu sayesinde verimlilik odaklı çalışır.
 
